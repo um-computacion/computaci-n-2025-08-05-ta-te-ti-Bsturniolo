@@ -1,0 +1,1 @@
+from src.tateti import jugar
