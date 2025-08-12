@@ -21,7 +21,6 @@ Este proyecto consiste en un juego de Tatetí con las siguientes característica
 ```plaintext
 tateti/
 │
-├── main.py           # Punto de entrada para ejecutar el juego
 ├── src/              # Código fuente principal
 │   ├── __init__.py
 │   ├── cli.py        # Interfaz en consola para interacción con usuario
@@ -34,6 +33,4 @@ tateti/
 │   ├── test_jugador.py
 │   ├── test_tablero.py
 │   └── test_tateti.py
-├── docs/             # Documentación adicional
-│   └── documentation.md
 └── README.md         # Este archivo
